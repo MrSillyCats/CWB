@@ -1,3 +1,4 @@
+--Kolor V1 /w the CWB Extention
 NewVar Username String = "DaveTheBanana"
 NewVar rDat String As Array = {"Dave", "47", "offline", "false"}
 Label Loop
