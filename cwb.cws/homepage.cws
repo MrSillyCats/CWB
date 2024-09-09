@@ -1,1 +1,6 @@
-<Code an etc... here>
+NewVar Username String = "DaveTheBanana"
+NewVar rDat String As Array = {"Dave", "47", "offline", "false"}
+Label Loop
+Print %Username 0 0 White Black
+Print %rDat 0 1 Black White
+GoLbl Loop
